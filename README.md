@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a B.Tech student pursuing my degree in Computer Science and Engineering.<br>I am passionate about exploring the world of data analytics and utilizing it to its full potential.<br>As such, I always seek opportunities to develop my skills in this field.<br>Currently, I am focused on learning machine and deep learning and improving my proficiency in SQL. I believe that these tools and techniques will enable me to unlock insights from large and complex datasets, and ultimately help me to contribute meaningfully to the world of technology.
+I'm a B.Tech student pursuing my degree in Computer Science and Engineering. I am passionate about exploring the world of data analytics and utilizing it to its full potential.<br>As such, I always seek opportunities to develop my skills in this field.<br>Currently, I am focused on learning machine and deep learning and improving my proficiency in SQL. I believe that these tools and techniques will enable me to unlock insights from large and complex datasets, and ultimately help me to contribute meaningfully to the world of technology.
 
 
 ## 🌐 Socials:
